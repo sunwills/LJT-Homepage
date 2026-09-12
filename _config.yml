@@ -12,10 +12,10 @@ site_theme               : "default" # The available themes options are "default
 title                    : "Junteng Liu"
 title_separator          : "-"
 name                     : &name "Junteng Liu"
-description              : &description "Junteng Liu's academic homepage"   # Update this with a general description of your site, this is the default if not overridden by a page
-url                      : https://sunwills.github.io # The base hostname & protocol for your site
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "sunwills/academicpages.github.io"
+description              : &description "Junteng Liu's academic homepage"
+url                      : https://sunwills.github.io
+baseurl                  : "/LJT-Homepage"
+repository               : "sunwills/LJT-Homepage"
 
 # Site Author
 author:
